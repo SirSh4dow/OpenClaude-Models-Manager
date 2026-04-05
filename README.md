@@ -3,7 +3,7 @@
 A modern GUI tool built to simplify and manage your **OpenClaude** environment settings. Edit API keys, choose models dynamically, and integrate everything seamlessly — without ever touching local system files manually.
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="OpenClaude Models Manager" width="600"/>
+  <img src="assets/preview.png" alt="OpenClaude Models Manager" width="600"/>
 </p>
 
 ## 🚀 Key Features
